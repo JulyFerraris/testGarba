@@ -1,0 +1,14 @@
+.item {
+   border: 1px solid #CCC;
+   padding: 20px;
+   margin: 20px;
+   flex: 0 0 20%;
+}
+
+.price {
+   font-size: 26px;
+}
+
+.block {
+   display: block;
+}
